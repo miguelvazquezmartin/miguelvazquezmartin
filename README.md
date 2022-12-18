@@ -13,7 +13,7 @@
 - ⚡ Fun fact: photography, fishing, kayaking, hiking, ...
 </br>
 <h3>Slowing down a bit,</h3>
-I´m a geologist turned into a joung programmer.
+I´m a geologist turned into a young programmer.
 </br>
 How did it happen?
 </br>
@@ -37,7 +37,6 @@ So finally, I put it all on my passion and love for tecnology and decided became
 ![Angular](https://img.shields.io/badge/-Angular-dc143c?style=flat-square&logo=Angular&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-6633cc?style=flat-square&logo=Bootstrap&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-ffa500?style=flat-square&logo=Java&logoColor=ffffff)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-6666FF?style=flat-square&logo=PHP&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-32cd32?style=flat-square&logo=MongoDB&logoColor=ffffff)
